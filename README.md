@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/PAYALPJENA">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F794EF&center=true&width=435&lines=Passionate+about+Data+%2B+Tech+%2B+Impact;Exploring+AI+%26+ML+for+Good;Turning+Insights+into+Actions;Building+Smarter+Solutions+Daily" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F794EF&center=true&width=500&lines=Hi%2C+I'm+Payal+Priyadarshini+Jena;Turning+Data+into+Impact+%7C+AI+•+Dashboards+•+Global+Tech+🌍" alt="Typing SVG" />
   </a>
 </p>
 
----
 
-### 👋 Hi there! I'm Payal Priyadarshini Jena
+---
 
 🎓 Computer Science undergraduate with a passion for solving real-world problems through **Data Science**, **AI**, and emerging technologies. From building healthtech solutions to simulating global policies via **MUNs**, I thrive at the intersection of **tech and impact**.
 
