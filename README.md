@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <td width="60%">
-      
+    <td width="60%" valign="top">
+
 - 🎓 Computer Science undergrad  
 - 🎯 Aspiring **Data Scientist** | Exploring **AI**, **Analytics**, and **Emerging Tech**  
 - 💡 Passionate about solving real-world problems using Data  
@@ -17,8 +17,8 @@
 - 🧠 Hackathon enthusiast & active learner in the ML + NLP space  
 
     </td>
-    <td>
-      <img src="IMG_20250722_154601.jpg" width="180" alt="profile-pic" style="border-radius:50%" />
+    <td align="center" width="40%">
+      <img src="IMG_20250722_154601.jpg" alt="profile-pic" width="100%" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
@@ -49,13 +49,15 @@
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAYALPJENA&show_icons=true&theme=tokyonight" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAYALPJENA&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYALPJENA&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PAYALPJENA&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAYALPJENA&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYALPJENA&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -78,12 +80,12 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PAYALPJENA&theme=darkhub&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PAYALPJENA&theme=darkhub&row=1&column=6" />
 </p>
+
 
 ---
 
