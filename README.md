@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple" />
+  <img src="https://img.shields.io/badge/Data--Driven-Storyteller-orange" />
+  <img src="https://img.shields.io/badge/Hackathon-Enthusiast-blue" />
+  <img src="https://img.shields.io/badge/MUN-SDGs--Focused-green" />
+</p>
 
 ---
 
@@ -66,12 +72,3 @@
 
 ---
 
-### 🚀 I'm Actively Seeking
-
-- 🔍 Data Science/AI internships (remote or hybrid)
-- 🤝 Open-source or research collaborations
-- 🌍 Global student exchange/summer school programs
-
----
-
-_Thanks for stopping by! Feel free to ⭐️ or fork any repo that inspires you!_
