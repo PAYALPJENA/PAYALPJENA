@@ -6,7 +6,9 @@
 ---
 
 ## 🙋‍♀️ About Me
-<img src="https://github.com/PAYALPJENA/PAYALPJENA/assets/your-image-id/your-image-name.jpeg" width="200" align="right" style="border-radius: 10px; margin-left: 20px;" />
+<div align="left">
+<img src="IMG_20250722_154601.jpg" width="180" alt="profile-pic" style="border-radius:50%" />
+</div>
 
 - 🎓 Computer Science undergrad  
 - 🎯 Aspiring **Data Scientist** | Exploring **AI**, **Analytics**, and **Emerging Tech**  
