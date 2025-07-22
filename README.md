@@ -1,58 +1,78 @@
-<h1 align="center">Payal here 🔥</h1>
-<h3 align="center">Namaste 🙏 I'm Payal Priyadarshini Jena</h3>
+<!-- GitHub Profile README for Payal Priyadarshini Jena -->
+
+<p align="center">
+  <a href="https://github.com/PAYALPJENA">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F794EF&center=true&width=435&lines=Passionate+about+Data+%2B+Tech+%2B+Impact;Exploring+AI+%26+ML+for+Good;Turning+Insights+into+Actions;Building+Smarter+Solutions+Daily" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### ✨ About Me
+### 👋 Hi there! I'm Payal Priyadarshini Jena
 
-- 🔭 I’m currently pursuing B.Tech in Computer Science  
-- 🌱 I’m interested in **AI, Data Science, Cybersecurity, and Full Stack Development**
-- 💬 Ask me about **Python, C, Streamlit, Power BI, Notion, and Dashboards**
-- ⚡ Fun fact: I believe in building, sharing, and leveling up daily!
-
-📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/payaljena) 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)
+🎓 Computer Science undergraduate with a passion for solving real-world problems through **Data Science**, **AI**, and emerging technologies. From building healthtech solutions to simulating global policies via **MUNs**, I thrive at the intersection of **tech and impact**.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🔍 Currently Exploring
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+- 📚 Machine Learning & NLP through real-time Python projects  
+- 🧪 Hackathons focused on social impact and accessibility  
+- 🌍 Global issues like sustainability, AI ethics, and development in fragile states  
+
+---
+
+### 💡 Highlights
+
+- 📊 Built dashboards using **Streamlit**, **Pandas**, and **Matplotlib**
+- 🤖 Developed a smart symptom checker using **NLP** + **Ayurvedic logic**
+- 🧠 Certified in **Data Analytics** (Deloitte, Tata Forage), **Generative AI** (NxtWave)
+- 🌐 Represented **South Korea** in SDGs MUN committee
+
+---
+
+### 🧠 Technical Skills
+
+**Languages:** Python, C, C++, HTML, CSS, JavaScript  
+**Libraries/Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Git, GitHub  
+**Frameworks:** Streamlit, React.js (basic)  
+**Web Tools:** VS Code, GitHub Desktop, Node.js (beginner)  
+**Databases:** MySQL, Firebase, MongoDB (intro)  
+**Coursework:** Data Structures, OOP, DBMS, Software Engineering, Data Visualization  
+
+---
+
+### 🥇 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PAYALPJENA&theme=monokai&margin-w=15&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Payal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PAYALPJENA&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAYALPJENA&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYALPJENA&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🔥 Streak Stats
+### 🌐 Let's Connect
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-### ✨ Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- 💌 Email: [payalaki2006@gmail.com](mailto:payalaki2006@gmail.com)
+- 🔗 GitHub: [@PAYALPJENA](https://github.com/PAYALPJENA)
 
 ---
 
-### ☕ Support Me
+### 🚀 I'm Actively Seeking
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+- 🔍 Data Science/AI internships (remote or hybrid)
+- 🤝 Open-source or research collaborations
+- 🌍 Global student exchange/summer school programs
 
+---
 
+_Thanks for stopping by! Feel free to ⭐️ or fork any repo that inspires you!_
