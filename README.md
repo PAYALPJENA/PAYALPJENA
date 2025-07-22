@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 <div align="center">
-  <img src="profile-pic.jpeg" width="180" alt="profile-pic" style="border-radius:50%" />
+  <img src="IMG_20250722_154601.jpg" width="180" alt="profile-pic" style="border-radius:50%" />
 </div>
 
 I’m **Payal Priyadarshini Jena**, an aspiring **Data Scientist** passionate about solving real-world challenges using **AI**, **Data Science**, and emerging tech. I love exploring **ML**, **NLP**, and **Data Visualization** through hands-on projects, hackathons, and collaborative learning.  
