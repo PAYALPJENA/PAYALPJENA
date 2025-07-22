@@ -1,4 +1,4 @@
-<h1 align="center">MasterPayal here 🔥</h1>
+<h1 align="center">Payal here 🔥</h1>
 <h3 align="center">Namaste 🙏 I'm Payal Priyadarshini Jena</h3>
 
 ---
