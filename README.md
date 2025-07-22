@@ -5,7 +5,7 @@
 ---
 
 ## 🙋‍♀️ About Me
-<img src="https://github.com/PAYALPJENA/PAYALPJENA/blob/main/payal-profile.jpeg?raw=true" width="200" align="right" style="border-radius: 10px; margin-left: 20px;" />
+<img src="https://github.com/PAYALPJENA/PAYALPJENA/blob/main/profile.jpeg?raw=true" width="200" align="right" style="border-radius: 10px; margin-left: 20px;" />
 
 - 🎓 Computer Science undergrad  
 - 🎯 Aspiring **Data Scientist** | Exploring **AI**, **Analytics**, and **Emerging Tech**  
