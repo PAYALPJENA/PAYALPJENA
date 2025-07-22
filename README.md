@@ -4,17 +4,25 @@
 </h1>
 
 ---
-
 ## 🙋‍♀️ About Me
-<div align="left">
-<img src="IMG_20250722_154601.jpg" width="180" alt="profile-pic" style="border-radius:50%" />
-</div>
 
+<table>
+  <tr>
+    <td width="60%">
+      
 - 🎓 Computer Science undergrad  
 - 🎯 Aspiring **Data Scientist** | Exploring **AI**, **Analytics**, and **Emerging Tech**  
 - 💡 Passionate about solving real-world problems using Data  
 - 🤝 Open to internships, open-source collabs, and student exchange programs  
 - 🧠 Hackathon enthusiast & active learner in the ML + NLP space  
+
+    </td>
+    <td>
+      <img src="IMG_20250722_154601.jpg" width="180" alt="profile-pic" style="border-radius:50%" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
