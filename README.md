@@ -40,19 +40,3 @@
 
 ---
 
-### 💬 About Me
-
-```yaml
-name: Payal Priyadarshini Jena
-education: B.Tech in Computer Science
-goal: Aspiring Data Scientist 🧠
-interests:
-  - AI & Machine Learning
-  - Data Analytics & Visualization
-  - Hackathons & Real-World Tech Solutions
-  - Open Source Collaboration
-tools:
-  - Python, Pandas, NumPy, Matplotlib
-  - Streamlit, Power BI, Notion
-  - HTML/CSS/JS, Git & GitHub
-  - MySQL, Firebase, MongoDB (beginner)
