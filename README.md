@@ -53,13 +53,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PAYALPJENA&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAYALPJENA&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=PAYALPJENA&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYALPJENA&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
 ---
 
 ## 💻 Tech Stack
